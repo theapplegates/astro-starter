@@ -24,3 +24,5 @@ function returnSeven() {
 }
 
 ```
+
+![A Gulfstream Business Jet](/public/assets/images/Gulfstream-G400.jpg)
